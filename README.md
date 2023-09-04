@@ -6,8 +6,8 @@ Simple game by Scratch
 
 * Instructions:
 
-1. Press 『 up arrow 』to go up, 『 down arrow 』to go down, 『 right arrow 』to go right, 『 left arrow 』to go up
-2. Press 『 space 』to catch fishes and trash
+1. Press『 up arrow 』to go up, 『 down arrow 』to go down, 『 right arrow 』to go right, 『 left arrow 』to go up
+2. Press『 space 』to catch fishes and trash
 3. Do not touch coral and jellyfish 
 4. Control diving girl to touch 『 seashell 』to start the game and touch 『 whale 』to try again.
 
