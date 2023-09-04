@@ -5,6 +5,7 @@ Simple game by Scratch
 * You can follow the instructions to play.
 
 * Instructions:
+
 1. Press 『 up arrow 』to go up, 『 down arrow 』to go down, 『 right arrow 』to go right, 『 left arrow 』to go up
 2. Press 『 space 』to catch fishes and trash
 3. Do not touch coral and jellyfish 
